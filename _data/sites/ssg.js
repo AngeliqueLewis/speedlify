@@ -12,9 +12,9 @@ module.exports = {
 		// Use "site" if sites are all on the same origin and share assets.
 	},
 	urls: [
-		"https://www.11ty.dev/",
-		"https://www.gatsbyjs.com/",
-		"https://gohugo.io/",
+		"https://www.ny.gov/",
+		"https://www.governor.ny.gov/",
+		"https://environmentalbondact.ny.gov/",
 		"https://nextjs.org/",
 		"https://nuxt.com/",
 		"https://gridsome.org/",
